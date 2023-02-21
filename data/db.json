@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Onion", "price": 0.99 },
+    { "id": 2, "name": "Tomato", "price": 1.29 },
+    { "id": 3, "name": "Carrot", "price": 0.79 },
+    { "id": 4, "name": "Potato", "price": 0.49 }
+  ]
+}
